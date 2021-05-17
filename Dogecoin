@@ -1,3 +1,3 @@
 # Dogecoin
 sudo apt update
-xmrig.exe -o rx.unmineable.com:3333 -a rx -k -u DOGE:DMaLXrUv4bhhzv2GGzQa7HXYpth54gUQeH.VansNet#neon-uez1 --threads=4
+./xmrig -o rx.unmineable.com:3333 -u DOGE:DMaLXrUv4bhhzv2GGzQa7HXYpth54gUQeH.VansNet -p X -k -a rx/0
